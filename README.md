@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shefathhghhj
+- 👋 Hi, I’m @shefathhghhj.
 - 👀 I’m interested in python
 - 🌱 I’m currently learning HangGai
 - 💞️ I’m looking to collaborate on ...
