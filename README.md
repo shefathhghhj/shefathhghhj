@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shefathhghhj
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning HangGai
-- 💞️ I’m looking to collaborate on Django.
+- 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me shefathhghhj@gmail.com
 
 <!---
