@@ -5,6 +5,6 @@
 - 📫 How to reach me shefathhghhj@gmail.com
 - $
 <!---
-shefathhghhj/shefathhghhj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub prof
+shefathhghhj/shefathhghhj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pro
 
 
