@@ -5,6 +5,6 @@
 - 📫 How to reach me shefathhghhj@gmail.com
 - $
 <!---
-shefathhghhj/shefathhghhj is a ✨ special ✨ repository because its `README.md` (awe
+shefathhghhj/shefathhghhj is a ✨ special ✨ repository because its `README.md` (aw
 
 
